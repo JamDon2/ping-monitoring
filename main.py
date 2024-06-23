@@ -8,7 +8,7 @@ last = 0
 
 interval = 0.5
 
-graph_seconds = 10
+graph_seconds = 300
 
 graph_length = round(graph_seconds / interval)
 
